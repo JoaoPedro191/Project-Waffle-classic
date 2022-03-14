@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #eaeaea;
+  font-family: "Roboto" sans-serif;
+}
+
+.info h1 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1b1b1b;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  margin-bottom: 15px;
+}
+
+.white-paper {
+  background: #ffff;
+  max-width: 960px;
+  margin: 0 auto;
+  border-radius: 10px;
+  padding: 40px;
+  max-height: 1250px;
+  margin-top: 40px;
+  margin-bottom: 37px;
+}
+
+.info img {
+  width: 100%;
+  height: 300px;
+  border-radius: 15px;
+  object-fit: cover;
+}
+
+.info p {
+  text-align: right;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  color: #8f8f8f;
+  margin-top: 5px;
+}
+
+.lyric {
+  text-align: center;
+  color: #1b1b1b;
+  margin-top: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+.list-itens {
+  margin: 10px;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+
+.list-itens li {
+  margin-bottom: 9px;
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+.list-itens2 h2 {
+  text-align: center;
+}
+
+.lyric-two {
+  text-align: center;
+  padding-bottom: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+.list-items-ingredients {
+  margin: 10px;
+}
+
+.list-items-ingredients li {
+  margin-top: 9px;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 15px;
+}
+
+.list-items-ingredients li:nth-child(4) {
+  line-height: 25px;
+}
+
+footer h2 {
+  text-align: center;
+  color: #1b1b1b;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-family: "Roboto", sans-serif;
+}
+footer p {
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+.powered {
+  text-align: center;
+  margin-bottom: 16px;
+  color: #8f8f8f;
+}
+
+.rocket {
+  color: #9400d3;
+}
