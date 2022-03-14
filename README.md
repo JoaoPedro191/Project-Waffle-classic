@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tecnologias utilidas
+## 🚀 Tecnologias utilizadas
 
 ### O projeto foi desenvolvido Utilizando as seguintes Tecnologias
 
