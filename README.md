@@ -8,7 +8,7 @@
 
 ## 📝 Sobre
 
-#### Nesse simples Desafio, criei uma pagina Web de uma receita WAFFLE. esse desafio foi divido em 2 partes, primeiro momento eu criei a estrutura da página, com as informações da receita, e por fim na segunda parte, adicionei os estilos a página da receita.
+Nesse simples Desafio, criei uma pagina Web de uma receita WAFFLE. esse desafio foi divido em 2 partes, primeiro momento eu criei a estrutura da página, com as informações da receita, e por fim na segunda parte, adicionei os estilos a página da receita.
 
 ---
 
